@@ -24,7 +24,6 @@
 
 <br>
 
-https://komarev.com/ghpvc/?username=GaloRomero
 <img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
 
 ## Hi there 👋
