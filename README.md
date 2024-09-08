@@ -67,5 +67,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloRomero)](https://github.com/GaloRomero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloRomero&repo=pepadbDatabase,pepadbGeoviewer,pepadbPosgreScript,LeastCostPathAnalysisLisbon)](https://github.com/GaloRomero/github-readme-stats)
+
+
 
