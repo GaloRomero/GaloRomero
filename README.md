@@ -31,9 +31,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-galoromerogarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galoromerogarcia/)
 
-### 📧 Contact Me
-
-[![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
+- 📧 Contact me: [![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
 
 
 ---
