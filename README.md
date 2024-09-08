@@ -33,8 +33,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :telescope: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and FAIR principles.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Developing and managing relational databases as well as disseminating scientific information derived from R&D projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galoromerogarcia/)
