@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![Your Image](https://pepadb.us.es/imagenes_app/galo1.jpeg)
-
 <br>
 
 <div id="badges" align="center">
