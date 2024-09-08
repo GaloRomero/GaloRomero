@@ -16,10 +16,6 @@
 
 <br>
 
-
-<div id="header" align="center"></p>
-<img src="https://tenor.com/es/view/github-gif-1994631497036332975" alt=""/>
-</div>
 <div id="header" align="center"></p>
 <img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
 </div>
