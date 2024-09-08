@@ -29,7 +29,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I read tech articles.
 
-- :accessibility: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-galoromerogarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galoromerogarcia/)
+- :arrow_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-galoromerogarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galoromerogarcia/)
 
 - :mailbox: Contact information: [![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
 
