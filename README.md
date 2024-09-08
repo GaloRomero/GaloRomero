@@ -31,7 +31,7 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and FAIR principles.
+- :telescope: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
 - :seedling: Developing and managing relational databases as well as disseminating scientific information derived from R&D projects.
 
