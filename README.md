@@ -64,6 +64,8 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloRomero&repo=pepadbDatabase,pepadbGeoviewer,pepadbPosgreScript,LeastCostPathAnalysisLisbon)](https://github.com/GaloRomero/github-readme-stats)
 
+---
+
 ### 🔭 Recent Work
 
 - [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) project.
