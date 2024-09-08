@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Geographer :globe_with_meridians: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain ![Spain Flag](https://www.countryflags.io/es/flat/64.png).
+Geographer :globe_with_meridians: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :computer: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
