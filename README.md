@@ -4,6 +4,8 @@
 
 <br>
 
+<div class="container" style="display: flex; justify-content: space-between; gap: 10px;">
+
 <div id="header" align="center">
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFtemdnOG4zNWozd2R2aXEyNG5sMjdkYjY1djZuZTRkcm8zNjAyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="100"/>
 </div>
@@ -13,6 +15,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3psM3g2cjJlamc4aGh3bDVlYm9za3AyMmF0eXk1cnRrNHAxZmNkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="100"/>
 </div>
+
+</div>
+  
+
 
 <br>
 
