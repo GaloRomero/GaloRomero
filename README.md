@@ -23,7 +23,7 @@
 
 Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
+- :computer: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
 - :seedling: Development and management of relational databases as well as dissemination of scientific information from R&D projects in online databases. Open access map viewer implementation. Metadata generation in the context of the Semantic Web is no less important.
 
@@ -64,5 +64,8 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloRomero&repo=pepadbDatabase,pepadbGeoviewer,pepadbPosgreScript,LeastCostPathAnalysisLisbon)](https://github.com/GaloRomero/github-readme-stats)
 
+### 🔭 Recent Work
 
+- [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) project.
 
+Feel free to check out and let me know what you think!
