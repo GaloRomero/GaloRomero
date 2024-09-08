@@ -24,6 +24,8 @@
 
 <br>
 
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## Hi there 👋
