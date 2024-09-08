@@ -60,3 +60,10 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iWmqpd3x-mk5k489gZokZpYilPA7KO1vgL8LkWk3ekTxSTZZdfMq8Y0Kpp-SUEEcuZ0&usqp=CAU" alt="Tableau" title="Tableau" width="50" height="50">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloRomero)](https://github.com/GaloRomero/github-readme-stats)
+
