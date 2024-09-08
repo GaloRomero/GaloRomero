@@ -53,7 +53,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
    height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Icon" title="PostgreSQL" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Language Icon" title="R" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio Icon" title="RStudio" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio Icon" title="RStudio" width="40" height="40">&nbsp;
   <img src="https://www.qgis.org/img/logosign.svg" alt="R Language Icon" title="QGIS" width="40" height="40">&nbsp;
   <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="ArcGIS" title="ArcGIS" width="40" height="40">&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iWmqpd3x-mk5k489gZokZpYilPA7KO1vgL8LkWk3ekTxSTZZdfMq8Y0Kpp-SUEEcuZ0&usqp=CAU" alt="Tableau" title="Tableau" width="50" height="50">&nbsp;
