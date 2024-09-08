@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<br>
+
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
 </div>
