@@ -16,12 +16,10 @@
 
 <br>
 
-<div style="width:100%;height:0;padding-bottom:98%;position:relative;">
-  <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> 
-  </iframe>
+
+<div id="header" align="center"></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg1cWh2NXNpeWpmenhuNG53bWxsNXRwaDFvM2ljam9kb3EyYXRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt=""/>
 </div>
-<p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA"></a></p>
-  
 <div id="header" align="center"></p>
 <img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
 </div>
