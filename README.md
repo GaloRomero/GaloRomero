@@ -54,5 +54,6 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Icon" title="PostgreSQL" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Language Icon" title="R" width="40" height="40">&nbsp;
   <img src="https://www.qgis.org/img/logosign.svg" alt="R Language Icon" title="QGIS" width="40" height="40">&nbsp;
+  <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="R Language Icon" title="ArcGIS" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
