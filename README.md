@@ -16,14 +16,17 @@
 
 <br>
 
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA"></a></p>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
+</div>
+
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/galoromerogarcia/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=GaloRomero&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Hi there 👋
