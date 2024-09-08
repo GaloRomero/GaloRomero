@@ -58,7 +58,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS Icon" title="QGIS" width="40" height="40">&nbsp;
   <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="ArcGIS" title="ArcGIS" width="40" height="40">&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iWmqpd3x-mk5k489gZokZpYilPA7KO1vgL8LkWk3ekTxSTZZdfMq8Y0Kpp-SUEEcuZ0&usqp=CAU" alt="Tableau" title="Tableau" width="50" height="50">&nbsp;
-  <img src="https://es.wikipedia.org/wiki/Resource_Description_Framework#/media/Archivo:Rdf_logo.svg" alt="RDF" title="RDF" width="40" height="40">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/2538880?s=200&v=4" alt="OpenRefine" title="OpenRefine" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
