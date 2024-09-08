@@ -30,3 +30,11 @@
 ### :man_technologist: About Me :
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+
+- :telescope: I am working as a data curator at the University of Seville (in Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and FAIR principles.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
