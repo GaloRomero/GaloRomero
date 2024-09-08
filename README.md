@@ -50,8 +50,7 @@ Geographer and data scientist <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
    height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code Icon" title="VS Code" width="40" height="40">&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/2854298?s=48&v=4" title="Leaflet" alt="Leaflet" width="40" 
-   height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/2854298?s=48&v=4" title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Icon" title="PostgreSQL" width="40" height="40">&nbsp;
   <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SSMS Icon" title="SQL Server" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Language Icon" title="R" width="40" height="40">&nbsp;
