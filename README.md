@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Geographer :world_map: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+Geographer :world_map: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain **🇪🇸**.
 
 - :computer: Data curator at the [University of Seville](https://www.us.es/) (Andalusia, Spain) through a contract of Academic Excellence from the [Ministry of Universities](https://www.universidades.gob.es/) of the Government of Spain. I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
