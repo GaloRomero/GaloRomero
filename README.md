@@ -71,11 +71,11 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ### :card_index_dividers: R&D projects :
 
-- [**IberAmber**](https://sciproj.ptcris.pt/175913PRJ) - :euro: Fundação para a Ciência e a Tecnologia (FCT) (**Portugal**)
+- [**IberAmber**](https://sciproj.ptcris.pt/175913PRJ) - :euro: Fundação para a Ciência e a Tecnologia (FCT) **🇵🇹**
 
-- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministerio de Ciencia e Innovación (**Spain**)
+- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministerio de Ciencia e Innovación **🇪🇸**
 
-- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Consejería de Economía, Conocimiento, Empresas y Universidad (**Spain**)
+- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Consejería de Economía, Conocimiento, Empresas y Universidad **🇪🇸**
 
 ---
 
