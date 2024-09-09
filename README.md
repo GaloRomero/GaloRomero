@@ -117,9 +117,9 @@ Exploitation of spatial databases using SQL.
 
 - [**IberAmber**](https://sciproj.ptcris.pt/175913PRJ) - :euro: Fundação para a Ciência e a Tecnologia (FCT) **🇵🇹**
 
-- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministerio de Ciencia e Innovación **🇪🇸**
+- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministry of Science and Innovation **🇪🇸**
 
-- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Consejería de Economía, Conocimiento, Empresas y Universidad **🇪🇸**
+- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Regional Ministry of Economy, Knowledge, Business and the University **🇪🇸**
 
 ---
 
