@@ -155,4 +155,11 @@ Feel free to check out and let me know what you think!
 
 - [**Extraordinary graduation award**](https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios) - :1st_place_medal: Prize for the best student in the field of **Geography** in the academic year 2019/2020.
 
+---
+
+### :key: Languages :
+
+- [**Integrated Skills in English III - C1 (CEFR)**](https://www.trinitycollege.com/qualifications/SELT/C1-ISE-III)
+
+- Spanish (Native speaker)
 
