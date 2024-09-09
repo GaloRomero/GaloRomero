@@ -159,7 +159,7 @@ Feel free to check out and let me know what you think!
 
 ### :key: Languages :
 
-- English [**Integrated Skills in English III - C1 (CEFR)**](https://www.trinitycollege.com/qualifications/SELT/C1-ISE-III)
+- English [**Integrated Skills in English III - C1 (CEFR)**](https://www.trinitycollege.com/qualifications/SELT/C1-ISE-III) + [**First Certificate in English - B2 (CEFR)**](https://www.cambridgeenglish.org/exams-and-tests/first/)
 
 - Spanish (**Native speaker**)
 
