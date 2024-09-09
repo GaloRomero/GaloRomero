@@ -86,10 +86,16 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 - [**Implemantation of an archaeochemical tool for prehistoric data analysis and predictive modelling.**](https://zenodo.org/records/7930992) - [Computer Applications and Quantitative Methods in Archaeology](https://2023.caaconference.org/) :round_pushpin: **Amsterdam 🇳🇱**
 
 - [**The reusability of geospatial data in archaeology using web applications: PEPAdb**](https://zenodo.org/records/7930992) - [Computer Applications and Quantitative Methods in Archaeology](https://2023.caaconference.org/) :round_pushpin: **Amsterdam 🇳🇱**
-
+  
 - [**Pepadb: Putting the FAIR Principles into Practice**](https://www.e-a-a.org/EAA2022/Programme.aspx?WebsiteKey=13a70299-9cf2-4cc8-98c2-2862c5c6a8dd&hkey=01dc47f6-68bd-4d87-bcdf-183a7eb484d2&Program=3#Program) - [European Association of Archaeologists](https://www.e-a-a.org/) :round_pushpin: **Budapest 🇭🇺**
 
+---
 
+### :open_file_folder: Open Data repository :
+
+- [**PEPAdb raw and processed tabular data**](https://zenodo.org/records/10545573)
+
+- [**PEPAdb metadata for raw and processed tabular data**](https://zenodo.org/records/10576530)
 ---
 
 ### 🔭 Recent Work :
