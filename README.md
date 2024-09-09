@@ -81,9 +81,25 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 - [**European Commission**](https://commission.europa.eu/index_es) - (2020-2021)
 
+  
+
 - [**Evenor Tech**](https://evenor-tech.com/) - 2020
 
-- [**Geographica**](https://carto.com/) - 2019 
+Participation in the European [**CONSOLE**] project(https://console-project.eu/) (*Contract Solutions for Effective and Lasting Delivery of Agri-Environmental-Climate Public Goods by EU Agriculture and Forestry*):
+
+- SQL database administration.
+- Writing scientific and technical reports.
+
+- [**Ministry of Education**]() - 2019
+
+Digitising protected natural spaces in Andalusia using GIS software.
+
+- [**Geographica**](https://carto.com/) - 2019
+
+Participation in the European [**Urban Audit**](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project:
+
+Editing, correcting and updating files in various formats using GIS software.
+Exploitation of spatial databases using SQL.
 
 ---
 
