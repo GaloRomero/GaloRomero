@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Geographer :globe_with_meridians: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+Geographer :world_map: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :computer: I am working as a data curator at the University of Seville (Andalusia, Spain). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
@@ -33,7 +33,7 @@ Geographer :globe_with_meridians: and data scientist <img src="https://media.gip
 
 - :mailbox: Contact information: [![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
 
-- [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
+- :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
