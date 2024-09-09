@@ -83,7 +83,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ### :speaking_head: Conference presentations :
 
-- [**Reuse or Nothing! the Materialisation of R Principle Through the Implementation of a Spatial Data Infrastructure: PEPAdb**](https://www.e-a-a.org/EAA2023/Programme.aspx?WebsiteKey=4c013ea5-de96-432a-85f7-b1800c2303bf&hkey=f73d6cf5-b37e-4836-ad06-2ecea6b58060&Program=3#Program) - [European Association of Archaeologists](https://www.e-a-a.org/) :round_pushpin: **Northern Ireland 🇬🇧**
+- [**Reuse or Nothing! the Materialisation of R Principle Through the Implementation of a Spatial Data Infrastructure: PEPAdb**](https://www.e-a-a.org/EAA2023/Programme.aspx?WebsiteKey=4c013ea5-de96-432a-85f7-b1800c2303bf&hkey=f73d6cf5-b37e-4836-ad06-2ecea6b58060&Program=3#Program) - [European Association of Archaeologists](https://www.e-a-a.org/) :round_pushpin: **Belfast 🇬🇧**
 
 - [**Implemantation of an archaeochemical tool for prehistoric data analysis and predictive modelling.**](https://zenodo.org/records/7930992) - [Computer Applications and Quantitative Methods in Archaeology](https://2023.caaconference.org/) :round_pushpin: **Amsterdam 🇳🇱**
 
