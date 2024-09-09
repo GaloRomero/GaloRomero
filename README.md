@@ -87,8 +87,8 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 Participation in the European [**CONSOLE**] project(https://console-project.eu/) (*Contract Solutions for Effective and Lasting Delivery of Agri-Environmental-Climate Public Goods by EU Agriculture and Forestry*):
 
-- SQL database administration.
-- Writing scientific and technical reports.
+SQL database administration.
+Writing scientific and technical reports.
 
 - [**Ministry of Education**]() - 2019
 
