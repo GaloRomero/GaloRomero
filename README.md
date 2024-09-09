@@ -33,7 +33,8 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 - :mailbox: Contact information: [![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
 
-- :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
+- :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
