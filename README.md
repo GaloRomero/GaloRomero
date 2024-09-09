@@ -79,7 +79,7 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 - [**Ministry of Universities**](https://www.universidades.gob.es/) - (2021-2025)
 
-- [**European Commission**](https://commission.europa.eu/index_es)- (2020-2021)
+- [**European Commission**](https://commission.europa.eu/index_es) - (2020-2021)
 
 - [**Evenor Tech**](https://evenor-tech.com/) - 2020
 
