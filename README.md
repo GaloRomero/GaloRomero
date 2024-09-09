@@ -27,7 +27,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 - :hammer_and_pick: Development and management of relational databases as well as dissemination of scientific information from R&D projects in online databases. Open access map viewer implementation. Metadata generation in the context of the Semantic Web is no less important.
 
-- :zap: I have developed a Spatial Data Infrastructure from scratch: [PEPAdb](https://pepadb.us.es) (Prehistoric Europe’s Personal Adornment database).
+- :comet: I have developed a Spatial Data Infrastructure from scratch: [PEPAdb](https://pepadb.us.es) (Prehistoric Europe’s Personal Adornment database).
 
 - :man_teacher: I have been teaching for 3 years (2022-2024) at the University of Seville as a lecturer in Computer Applications in Archaeology and Statistics.
 
