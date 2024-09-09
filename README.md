@@ -66,6 +66,16 @@ Geographer :globe_with_meridians: and data scientist <img src="https://media.gip
 
 ---
 
+### :card_index_dividers: R&D projects :
+
+- [**IberAmber**](https://sciproj.ptcris.pt/175913PRJ)
+
+- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407)
+
+- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567)
+  
+---
+
 ### 🔭 Recent Work
 
 - [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) project.
