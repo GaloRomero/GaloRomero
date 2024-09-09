@@ -27,7 +27,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 - :hammer_and_pick: Development and management of relational databases as well as dissemination of scientific information from R&D projects in online databases. Open access map viewer implementation. Metadata generation in the context of the Semantic Web is no less important.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I have a passion for hiking :hiking_boot: and for listening to rock music :notes:.
 
 - :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
 
