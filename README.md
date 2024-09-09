@@ -100,6 +100,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 - [**PEPAdb raw and processed tabular data**](https://zenodo.org/records/10545573) - Text file format datasets
 
 - [**PEPAdb metadata for raw and processed tabular data**](https://zenodo.org/records/10576530) - RDF Turtle syntax
+  
 ---
 
 ### 🔭 Recent Work :
@@ -107,6 +108,8 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 - [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb open initiative.
 
 Feel free to check out and let me know what you think!
+
+---
 
 ### :trophy: Awards :
 
