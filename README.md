@@ -93,9 +93,9 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ### :open_file_folder: Open Data repository :
 
-- [**PEPAdb raw and processed tabular data**](https://zenodo.org/records/10545573)
+- [**PEPAdb raw and processed tabular data**](https://zenodo.org/records/10545573) - Text file format datasets
 
-- [**PEPAdb metadata for raw and processed tabular data**](https://zenodo.org/records/10576530)
+- [**PEPAdb metadata for raw and processed tabular data**](https://zenodo.org/records/10576530) - RDF Turtle syntax
 ---
 
 ### 🔭 Recent Work :
