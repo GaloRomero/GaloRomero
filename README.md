@@ -107,3 +107,9 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 - [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb open initiative.
 
 Feel free to check out and let me know what you think!
+
+### :trophy: Awards :
+
+- [**Extraordinary graduation award**](https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios) - Prize for the best student in the field of geography in the academic year 2019/2020.
+
+
