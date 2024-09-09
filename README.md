@@ -81,7 +81,7 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 - [**European Commission**](https://commission.europa.eu/index_es) - (2020-2021)
 
-  
+Systematisation of the data collected in the [**HAR2017-83474-P**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=28512) and [**HAR2012-34620**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=21569) projects into a Spatial Data Infrastructure (SDI) and Geoportal according to the INSPIRE guidelines of the European Union :eu:.
 
 - [**Evenor Tech**](https://evenor-tech.com/) - 2020
 
