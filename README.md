@@ -78,6 +78,6 @@ Geographer :globe_with_meridians: and data scientist <img src="https://media.gip
 
 ### 🔭 Recent Work :
 
-- [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) project.
+- [**PEPAdb online database**](https://pepadb.us.es/app/database.html) - Free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) open initiative.
 
 Feel free to check out and let me know what you think!
