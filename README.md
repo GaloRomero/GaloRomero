@@ -29,11 +29,11 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 - :zap: In my free time, I read tech articles.
 
+- :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
+
 - :arrow_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-galoromerogarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galoromerogarcia/)
 
 - :mailbox: Contact information: [![Gmail Badge](https://img.shields.io/badge/-galoromerogarcia@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:galoromerogarcia@gmail.com)
-
-- :spiral_notepad: Scientific papers: [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3bs9N7IAAAAJ&hl=es)
 
 ---
 
