@@ -29,7 +29,9 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 - :comet: I have developed a Spatial Data Infrastructure from scratch: [PEPAdb](https://pepadb.us.es) (Prehistoric Europe’s Personal Adornment database).
 
-- :man_teacher: I have been teaching for 3 years (2022-2024) at the University of Seville as a lecturer in Computer Applications in Archaeology and Statistics.
+- :man_teacher: I have been teaching for 3 years (2021-2024) at the University of Seville as a lecturer in Computer Applications in Archaeology and Statistics.
+
+- :gear: Worth mentioning, I also worked as a research technician for the [European Commission](https://commission.europa.eu/index_es) :eu: (2020-2021).
 
 - :zap: In my free time, I have a passion for hiking :hiking_boot: and for listening to rock music :notes:.
 
