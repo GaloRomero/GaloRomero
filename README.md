@@ -73,6 +73,11 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ---
 
+### :education: Education :
+
+
+---
+
 ### :rocket: Work experience :
 
 Since 2019, I have been working for a variety of companies and organisations that are involved in technological development and innovation.
