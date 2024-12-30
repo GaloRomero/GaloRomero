@@ -87,7 +87,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 - Skills: Data Structures and Algorithms, Database Management Systems and Geographic Information Technology
 
 📘 Geographical Information Systems for Project Management and Research Technical Application Course <br>
-[**Universidad de Sevilla**](https://www.geografos.org/curso-experto-aplicacion-tecnica-sig-proyectos/) <br>
+[**Centro de Formación Permanente - Universidad de Sevilla**](https://www.geografos.org/curso-experto-aplicacion-tecnica-sig-proyectos/) <br>
 *November 2017 - March 2018* <br>
 - Skills: Geographic Information Technology and Applied Geography
 
