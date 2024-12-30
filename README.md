@@ -23,7 +23,7 @@
 
 Geographer :world_map: and data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain **🇪🇸**.
 
-- :computer: Data curator at the [University of Seville](https://www.us.es/) (Andalusia, Spain) through a contract of Academic Excellence from the Spanish Government's Ministry of Universities. [Ministry of Universities](https://www.universidades.gob.es/). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
+- :computer: Data curator at the [University of Seville](https://www.us.es/) (Andalusia, Spain) through a contract of Academic Excellence from the Spanish Government's Ministerio de Universidades [Ministry of Universities](https://www.universidades.gob.es/). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
 
 - :hammer_and_pick: Development and management of relational databases as well as dissemination of scientific information from R&D projects in online databases. Open access map viewer implementation. Metadata generation in the context of the Semantic Web is no less important.
 
@@ -77,7 +77,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 Since 2019, I have been working for a variety of companies and organisations that are involved in technological development and innovation.
 
-- [**Ministry of Universities**](https://www.universidades.gob.es/) - (2021-2025)
+- [**Ministerio de Universidades**](https://www.universidades.gob.es/) - (2021-2025)
 
 Continue the task of implementing a Spatial Data Infrastructure [PEPAdb](https://pepadb.us.es) to provide archaeological information, among other tasks:
 
@@ -100,7 +100,7 @@ Participation in the European :eu: [**CONSOLE**](https://console-project.eu/) pr
 SQL database administration. <br>
 Writing scientific and technical reports.
 
-- [**Ministry of Education**](https://www.educacionfpydeportes.gob.es/portada.html) - 2019
+- [**Ministerio de Educación**](https://www.educacionfpydeportes.gob.es/portada.html) - 2019
 
 Digitising protected natural spaces in Andalusia using GIS software.
 
