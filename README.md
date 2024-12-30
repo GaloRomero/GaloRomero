@@ -108,7 +108,7 @@ Continue the task of implementing a Spatial Data Infrastructure [PEPAdb](https:/
 
 PostgreSQL relational databases. <br>
 Web Mapping (Leaflet). <br>
-RDF metadata. <br>
+RDF and INSPIRE metadata. <br>
 Online databases (Bootstrap Table, HTML5 and CSS3). <br>
 Statistical and spatial analysis using the R programming language. <br>
 Data management using Pandas (Python). <br>
