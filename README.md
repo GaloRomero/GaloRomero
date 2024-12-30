@@ -57,6 +57,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
   <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SSMS Icon" title="SQL Server" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Language Icon" title="R" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio Icon" title="RStudio" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" title="Python" width="40" height="40">
   <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS Icon" title="QGIS" width="40" height="40">&nbsp;
   <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="ArcGIS" title="ArcGIS" width="40" height="40">&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iWmqpd3x-mk5k489gZokZpYilPA7KO1vgL8LkWk3ekTxSTZZdfMq8Y0Kpp-SUEEcuZ0&usqp=CAU" alt="Tableau" title="Tableau" width="50" height="50">&nbsp;
