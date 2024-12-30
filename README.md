@@ -81,10 +81,10 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 Continue the task of implementing a Spatial Data Infrastructure [PEPAdb](https://pepadb.us.es) to provide archaeological information, among other tasks:
 
-Implementation of PostgreSQL relational databases. <br>
-Construction of cartographic viewers using Leaflet. <br>
-Generation of RDF metadata. <br>
-Publication of online databases (Bootstrap Table, HTML5 and CSS3). <br>
+PostgreSQL relational databases. <br>
+Web Mapping (Leaflet). <br>
+RDF metadata. <br>
+Online databases (Bootstrap Table, HTML5 and CSS3). <br>
 Statistical and spatial analysis using the R programming language. <br>
 Data management using Pandas (Python). <br>
 Teaching Computer Applications in Archaeology and Statistics (Archaeology degree, University of Seville). <br>
