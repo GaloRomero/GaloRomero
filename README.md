@@ -73,7 +73,7 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ---
 
-### :education: Education :
+### :books: Education :
 
 
 ---
