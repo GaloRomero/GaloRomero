@@ -75,14 +75,14 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ### :books: Education :
 
-📘 Master's degree in Territorial Management. Tools and intervention techniques.
-[**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-gestion-del-territorio) 
-*October 2019 - July 2020*  
+📘 Master's degree in Territorial Management. Tools and intervention techniques. <br>
+[**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-gestion-del-territorio) <br>
+*October 2019 - July 2020* <br>
 - Relevant Courses: Data Structures and Algorithms, Database Management Systems and Geographic Information Technology
 
-📘 Bachelor's degree in Geography and Territorial Management
-[**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-geografia-y-gestion-del-territorio) 
-*September 2015 - July 2019*  
+📘 Bachelor's degree in Geography and Territorial Management <br>
+[**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-geografia-y-gestion-del-territorio) <br>
+*September 2015 - July 2019* <br>
 - Relevant Courses: Data Structures and Algorithms, Database Management Systems and Geographic Information Technology 
   
 
