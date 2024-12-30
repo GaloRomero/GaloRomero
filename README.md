@@ -87,7 +87,7 @@ RDF metadata. <br>
 Online databases (Bootstrap Table, HTML5 and CSS3). <br>
 Statistical and spatial analysis using the R programming language. <br>
 Data management using Pandas (Python). <br>
-Teaching Computer Applications in Archaeology and Statistics (Archaeology degree, University of Seville). <br>
+Teaching Computer Applications in Archaeology and Statistics (Bachelor's degree in Archaeology, University of Seville). <br>
 
 - [**European Commission**](https://commission.europa.eu/index_es) - (2020-2021)
 
