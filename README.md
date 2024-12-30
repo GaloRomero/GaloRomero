@@ -115,11 +115,14 @@ Exploitation of spatial databases using SQL.
 
 ### :card_index_dividers: R&D projects :
 
-- [**IberAmber**](https://sciproj.ptcris.pt/175913PRJ) - :euro: Fundação para a Ciência e a Tecnologia (FCT) **🇵🇹**
+- [**Âmbar local e redes de troca na pré-história da Península Ibérica: caracterização das fontes
+portuguesas como um caso de estudo global**](https://sciproj.ptcris.pt/175913PRJ) - :euro: Fundação para a Ciência e a Tecnologia (FCT) **🇵🇹**
 
-- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministry of Science and Innovation **🇪🇸**
+- [**Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=36407) - :euro: Ministerio de Ciencia e Innovación **🇪🇸**
 
-- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Regional Ministry of Economy, Knowledge, Business and the University **🇪🇸**
+- [**Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=33567) - :euro: Consejería de Economía, Conocimiento, Empresas y Universidad **🇪🇸**
+
+- [**Redes y Rocas Raras en la Península Ibérica y el Mediterráneo (VI-II Milenio AC)**](https://investigacion.us.es/sisius/sis_proyecto.php?idproy=28512) - :euro: Ministerio de Economía y Competitividad **🇪🇸**
 
 ---
 
