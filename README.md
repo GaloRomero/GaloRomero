@@ -75,17 +75,26 @@ Geographer :world_map: and data scientist <img src="https://media.giphy.com/medi
 
 ### :books: Education :
 
+📘 Postgraduate Course in Geographic Information Technology <br>
+[**Consejo Superior de Investigaciones Científicas**](https://www.csic.es/es/formacion-y-empleo/cursos-de-alta-especializacion-del-csic/la-aplicacion-de-las-tecnologias-de-informacion-geografica-en-arqueologia-xix-edicion) <br>
+*June 2022 - July 2022* <br>
+- Relevant Courses: Data Structures and and Geographic Information Technology
+
 📘 Master's degree in Territorial Management. Tools and intervention techniques. <br>
 [**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-gestion-del-territorio) <br>
 *October 2019 - July 2020* <br>
 - Relevant Courses: Data Structures and Algorithms, Database Management Systems and Geographic Information Technology
 
+📘 Geographical Information Systems for Project Management and Research Technical Application Course <br>
+[**Universidad de Sevilla**](https://www.geografos.org/curso-experto-aplicacion-tecnica-sig-proyectos/) <br>
+*November 2017 - March 2018* <br>
+- Relevant Courses: Geographic Information Technology and Applied Geography
+
 📘 Bachelor's degree in Geography and Territorial Management <br>
 [**Universidad de Sevilla**](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-geografia-y-gestion-del-territorio) <br>
 *September 2015 - July 2019* <br>
-- Relevant Courses: Data Structures and Algorithms, Database Management Systems and Geographic Information Technology 
+- Relevant Courses: Data Structures, Database Management Systems and Geographic Information Technology 
   
-
 ---
 
 ### :rocket: Work experience :
