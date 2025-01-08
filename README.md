@@ -104,7 +104,7 @@ Since 2019, I have been working for a variety of companies and organisations tha
 
 - [**Ministerio de Universidades**](https://www.universidades.gob.es/) - (2021-Present)
 
-Continue the task of implementing a Spatial Data Infrastructure [PEPAdb](https://pepadb.us.es) to provide archaeological information, among other tasks:
+Continuation of the task of implementing a Spatial Data Infrastructure [PEPAdb](https://pepadb.us.es) for the provision of archaeological information, among other things:
 
 PostgreSQL relational databases. <br>
 Web Mapping (Leaflet). <br>
