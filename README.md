@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-My academic and professional background has provided me with strong technical expertise and a rigorous analytical mindset. I have contributed to several R&D projects alongside leading research teams, taught statistical programming and data analysis at university level for three years, and coordinated multiple courses. I have a solid technical profile, focused on the analysis, management and development of geospatial data solutions.
+Software Engineer and Geospatial Data Specialist with expertise in ETL workflows, SQL, Python, and database modelling. I have experience developing scalable data architectures and transforming complex datasets into actionable insights. Skilled in building robust, efficient solutions, I focus on enabling data-driven decision-making and delivering measurable results.
 
 - 🌐 Visit my personal website: [https://galoromero.github.io/](https://galoromero.github.io/)
 
